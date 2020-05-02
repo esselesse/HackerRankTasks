@@ -1,2 +1,2 @@
 # HackerRankTasks
-Tasks from HackerRank.com
+Tasks from the HackerRank.com
